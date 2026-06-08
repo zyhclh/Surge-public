@@ -12,7 +12,7 @@
 
 ## How to use
 ### 模块安装链接
-> **稳定版 :** https://raw.githubusercontent.com/zyhclh/Surge/main/Module/Spec/StartUpAds/Moore/StartUpAds.sgmodule<br>
+> **稳定版 :** https://raw.githubusercontent.com/zyhclh/Surge-public/main/Module/Spec/StartUpAds/Moore/StartUpAds.sgmodule<br>
 
 ### 安装方式
 打开 Surge -> 模块 -> 安装新模块 -> 复制粘贴上方的安装链接 -> 完成!
